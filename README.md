@@ -1,1 +1,1 @@
-# stepicDE
+# stepikDE
